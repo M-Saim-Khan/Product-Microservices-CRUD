@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33066,
+            "driver": "MySQL",
+            "name": "Docker MySQL",
+            "database": "admin",
+            "username": "root",
+            "password": "root"
+        }
+    ]
+}
